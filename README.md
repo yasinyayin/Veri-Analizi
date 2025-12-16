@@ -1,4 +1,2 @@
 # Veri-Analizi
-1-Power BI üzerinde satış verilerinin analizini ve görselleştirmesi.
-2-Nba draftlarının 1989-2021 arasındaki performansının analizinin görselleştirilmesi.
-
+Power Bı ile gerçekleştirdiğim veri analizleri ve görselleştirmeleri bulunmaktadır. Klasörlerin içinde datasetler ve .pbix uzantılı power bı uygulama dosyaları bulunmaktadır.
